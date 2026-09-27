@@ -1,0 +1,17 @@
+# This repository contains only the backend and frontend directories.
+*
+!.gitignore
+!DEPLOYMENT.md
+!zonixrental/
+!zonixrental/**
+!zonixrentalF/
+!zonixrentalF/**
+
+# Never commit local configuration or generated output.
+**/.env
+**/.env.*
+!**/.env.example
+**/target/
+**/node_modules/
+**/dist/
+**/build/

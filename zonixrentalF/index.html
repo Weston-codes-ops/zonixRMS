@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <!-- This line satisfies Electron's security engine and removes the warning -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' http://localhost:5173 'unsafe-inline' 'unsafe-eval';">
+  
+  <title>Zonix RMS</title>
+</head>
+<body class="bg-neutral-900 m-0 p-0">
+  
+  <div id="root"></div>
+  <script type="module" src="/src/index.jsx"></script>
+  
+</body>
+</html>

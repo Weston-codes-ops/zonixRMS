@@ -1,0 +1,11 @@
+<svg width="240" height="64" viewBox="0 0 240 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Zonix RMS - Prism Z logo</title>
+  <g transform="translate(8 8)">
+    <path d="M8 9H38L28 18H8V9Z" fill="#41D5E7"/>
+    <path d="M28 18H38L20 39H9L28 18Z" fill="#2775FF"/>
+    <path d="M20 30H39V39H9L20 30Z" fill="#70E0BF"/>
+    <path d="M31 9H38V18H21L31 9Z" fill="#B8F3E1" fill-opacity=".72"/>
+  </g>
+  <text x="67" y="35" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="-1">zonix</text>
+  <text x="68" y="49" fill="#8EA3BD" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.8">RMS</text>
+</svg>

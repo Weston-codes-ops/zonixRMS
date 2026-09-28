@@ -35,7 +35,6 @@ build/
 # Local and secret configuration
 src/main/resources/application-dev.properties
 *.env
-!.env.example
 
 # Keep local test sources out of the deployment repository.
 /src/test/

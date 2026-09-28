@@ -10,7 +10,6 @@
 # Never commit local configuration or generated output.
 **/.env
 **/.env.*
-!**/.env.example
 **/target/
 **/node_modules/
 **/dist/

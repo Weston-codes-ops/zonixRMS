@@ -1,7 +1,6 @@
 # This repository contains only the backend and frontend directories.
 *
 !.gitignore
-!DEPLOYMENT.md
 !zonixrental/
 !zonixrental/**
 !zonixrentalF/
